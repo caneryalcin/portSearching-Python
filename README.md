@@ -4,4 +4,4 @@ This project aims to check which port is open or closed according to your host n
 
 ## Note
 
->sp.call('clear',shell=True) works with terminal.If you use that code in PyCharm or other IDE probably it'll cause error.
+>sp.call('clear',shell=True) works with terminal.If you use that code in PyCharm or in another IDE probably it'll cause error.
