@@ -1,6 +1,6 @@
 # portSearching-Python
 
-This project aims to check which port is open or closed according to your host name.
+This project aims to check which port is open or closed according to your host name.When it is finished it shows amount of time that while searching for ports .
 
 ## Note
 
